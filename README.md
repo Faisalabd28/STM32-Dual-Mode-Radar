@@ -8,7 +8,7 @@ The project highlights two major architectural features:
 2. **Dual-Transmission Method:** The system allows on-the-fly toggling between wired USB-to-TTL and wireless HC-06 Bluetooth serial communication. It streams rich data packets—including servo pulse width (angle), calculated distance, and raw echo time—directly to a live MATLAB polar plot.
 
 ## Hardware Architecture
-*(Replace this line with your image: `![Project Schematic](Radar_Project_Schematic.png)`)*
+`![Project Schematic](Radar_Project_Schematic.png)`
 
 **Components Used:**
 * **Microcontroller:** STM32F103C8T6 (Blue Pill)
